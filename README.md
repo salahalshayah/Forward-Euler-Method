@@ -16,4 +16,4 @@ This project is licensed under the MIT License. You are free to use, copy, modif
 
 #Acknowledgments
 
-I would like to thank @Ibrahim-Rafie who has helped make this project possible. I welcome contributions from anyone and hope that you'll consider getting involved!
+I would like to thank @Ibrahim-Rafei who has helped make this project possible. I welcome contributions from anyone and hope that you'll consider getting involved!
